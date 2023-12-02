@@ -25,11 +25,11 @@
     "products": [
       {
         "id": 1,
-        "name": "LED display",
+        "name": "M5 Competition",
         "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-        "price": 92,
+        "price": 180000,
         "author_id": 1,
-        "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+        "photo_url": "https://raw.githubusercontent.com/ionco9/Shop02/main/img/m5 competition.png"
       },
       {
         "id": 2,

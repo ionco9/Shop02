@@ -29,7 +29,7 @@
         "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
         "price": 180000,
         "author_id": 1,
-        "photo_url": "https://raw.githubusercontent.com/ionco9/Shop02/main/img/m5 competition.png"
+        "photo_url": "https://raw.githubusercontent.com/ionco9/Shop02/main/img/m5.jpg"
       },
       {
         "id": 2,
@@ -37,7 +37,7 @@
         "description": "Brand new and high quality.",
         "price": 180,
         "author_id": 3,
-        "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+        "photo_url": "https://raw.githubusercontent.com/ionco9/Shop02/main/img/m3.jpg"
       },
       {
         "id": 3,

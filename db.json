@@ -33,7 +33,7 @@
       },
       {
         "id": 2,
-        "name": "Arduino UNO",
+        "name": "M3",
         "description": "Brand new and high quality.",
         "price": 180,
         "author_id": 3,
@@ -41,35 +41,35 @@
       },
       {
         "id": 3,
-        "name": "ESP8266 5V",
+        "name": "Rs 7 ",
         "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
         "price": 300,
         "author_id": 2,
-        "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+        "photo_url": "https://raw.githubusercontent.com/ionco9/Shop02/main/img/rs7.jpg"
       },
       {
         "id": 4,
-        "name": "RGB",
+        "name": "A8",
         "description": "Can make color party.",
         "price": 92,
         "author_id": 1,
-        "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+        "photo_url": "https://raw.githubusercontent.com/ionco9/Shop02/main/img/A8.png"
       },
       {
         "id": 5,
-        "name": "Resistor 10k Ohm",
+        "name": "911 turbo s",
         "description": "Can resist the voltage. Super cool.",
         "price": 180,
         "author_id": 3,
-        "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png"
+        "photo_url": "https://raw.githubusercontent.com/ionco9/Shop02/main/img/gt3.png"
       },
       {
         "id": 6,
-        "name": "7-Segment Display",
+        "name": "Gt3",
         "description": "Epic.",
         "price": 300,
         "author_id": 2,
-        "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
+        "photo_url": "https://raw.githubusercontent.com/ionco9/Shop02/main/img/S.jpg"
       }
     ]
   }
